@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 //Aded by Nishil
 
+//Added by Zlatko
+
 namespace GitApplication
 {
     public partial class Form1 : Form
