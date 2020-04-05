@@ -1,0 +1,10 @@
+C:\Users\Kika\Desktop\GitSo01\GitApplication\bin\Debug\GitApplication.exe.config
+C:\Users\Kika\Desktop\GitSo01\GitApplication\bin\Debug\GitApplication.exe
+C:\Users\Kika\Desktop\GitSo01\GitApplication\bin\Debug\GitApplication.pdb
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.csprojAssemblyReference.cache
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.Properties.Resources.resources
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.csproj.GenerateResource.cache
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.exe
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.pdb
+C:\Users\Kika\Desktop\GitSo01\GitApplication\obj\Debug\GitApplication.Form1.resources
